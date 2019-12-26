@@ -2,3 +2,5 @@ rootProject.name = 'akka-tutorial'
 
 include 'hello-world'
 include 'chatroom'
+include 'spawning-new-actors-on-demand'
+
